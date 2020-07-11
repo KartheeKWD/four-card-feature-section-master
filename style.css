@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  font-size: 15px;
+  font-family: Poopins;
+  background-color: hsl(0, 0%, 98%);
+  color: ;
+}
+.reliable {
+  margin-top: 100px;
+  font-weight: 200;
+  text-align: center;
+}
+.powered {
+  font-weight: 400;
+  text-align: center;
+}
+.intelligence {
+  text-align: center;
+}
